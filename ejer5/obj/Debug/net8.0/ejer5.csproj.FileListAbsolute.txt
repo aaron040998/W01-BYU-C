@@ -1,0 +1,14 @@
+F:\BYU\term3\program-class\week1\programClass\ejer5\bin\Debug\net8.0\ejer5.exe
+F:\BYU\term3\program-class\week1\programClass\ejer5\bin\Debug\net8.0\ejer5.deps.json
+F:\BYU\term3\program-class\week1\programClass\ejer5\bin\Debug\net8.0\ejer5.runtimeconfig.json
+F:\BYU\term3\program-class\week1\programClass\ejer5\bin\Debug\net8.0\ejer5.dll
+F:\BYU\term3\program-class\week1\programClass\ejer5\bin\Debug\net8.0\ejer5.pdb
+F:\BYU\term3\program-class\week1\programClass\ejer5\obj\Debug\net8.0\ejer5.GeneratedMSBuildEditorConfig.editorconfig
+F:\BYU\term3\program-class\week1\programClass\ejer5\obj\Debug\net8.0\ejer5.AssemblyInfoInputs.cache
+F:\BYU\term3\program-class\week1\programClass\ejer5\obj\Debug\net8.0\ejer5.AssemblyInfo.cs
+F:\BYU\term3\program-class\week1\programClass\ejer5\obj\Debug\net8.0\ejer5.csproj.CoreCompileInputs.cache
+F:\BYU\term3\program-class\week1\programClass\ejer5\obj\Debug\net8.0\ejer5.dll
+F:\BYU\term3\program-class\week1\programClass\ejer5\obj\Debug\net8.0\refint\ejer5.dll
+F:\BYU\term3\program-class\week1\programClass\ejer5\obj\Debug\net8.0\ejer5.pdb
+F:\BYU\term3\program-class\week1\programClass\ejer5\obj\Debug\net8.0\ejer5.genruntimeconfig.cache
+F:\BYU\term3\program-class\week1\programClass\ejer5\obj\Debug\net8.0\ref\ejer5.dll

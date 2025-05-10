@@ -1,0 +1,14 @@
+F:\BYU\term3\program-class\week1\programClass\ejer2\obj\Debug\net8.0\ejer2.GeneratedMSBuildEditorConfig.editorconfig
+F:\BYU\term3\program-class\week1\programClass\ejer2\obj\Debug\net8.0\ejer2.AssemblyInfoInputs.cache
+F:\BYU\term3\program-class\week1\programClass\ejer2\obj\Debug\net8.0\ejer2.AssemblyInfo.cs
+F:\BYU\term3\program-class\week1\programClass\ejer2\obj\Debug\net8.0\ejer2.csproj.CoreCompileInputs.cache
+F:\BYU\term3\program-class\week1\programClass\ejer2\bin\Debug\net8.0\ejer2.exe
+F:\BYU\term3\program-class\week1\programClass\ejer2\bin\Debug\net8.0\ejer2.deps.json
+F:\BYU\term3\program-class\week1\programClass\ejer2\bin\Debug\net8.0\ejer2.runtimeconfig.json
+F:\BYU\term3\program-class\week1\programClass\ejer2\bin\Debug\net8.0\ejer2.dll
+F:\BYU\term3\program-class\week1\programClass\ejer2\bin\Debug\net8.0\ejer2.pdb
+F:\BYU\term3\program-class\week1\programClass\ejer2\obj\Debug\net8.0\ejer2.dll
+F:\BYU\term3\program-class\week1\programClass\ejer2\obj\Debug\net8.0\refint\ejer2.dll
+F:\BYU\term3\program-class\week1\programClass\ejer2\obj\Debug\net8.0\ejer2.pdb
+F:\BYU\term3\program-class\week1\programClass\ejer2\obj\Debug\net8.0\ejer2.genruntimeconfig.cache
+F:\BYU\term3\program-class\week1\programClass\ejer2\obj\Debug\net8.0\ref\ejer2.dll
